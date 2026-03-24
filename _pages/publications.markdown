@@ -10,7 +10,7 @@ author_profile: true
   <div class="wordwrap">You can find my full list of articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-^= co-first author
+^ = co-first author
 
 ## Selected Publications
 - [sCellST predicts single-cell gene expression from H&E images](https://www.nature.com/articles/s41467-025-67965-1), Loïc Chadoutaud, Marvin Lerousseau, Daniel Herrero-Saboya, Julian Ostermaier, Jacqueline Fontugne, Emmanuel Barillot, Thomas Walter, 2025, Nature Communications
