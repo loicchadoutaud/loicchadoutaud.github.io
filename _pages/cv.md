@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="{{ site.baseurl }}/files/cv.pdf" width="100%" height="800px">
-  This browser does not support PDFs. Please download the PDF to view it: <a href="{{ site.baseurl }}/files/CV_LC.pdf">Download PDF</a>.
-</iframe>
 {% include base_path %}
+
+<iframe src="{{ base_path }}/files/CV_LC.pdf" width="100%" height="800px">
+  This browser does not support PDFs. Please download the PDF to view it:
+  <a href="{{ base_path }}/files/CV_LC.pdf">Download PDF</a>.
+</iframe>
